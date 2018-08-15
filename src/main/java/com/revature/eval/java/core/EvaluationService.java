@@ -5,6 +5,9 @@ import java.util.List;
 import java.util.Map;
 
 public class EvaluationService {
+	public String hello() {
+		return "Hello";
+	}
 
 	/**
 	 * 1. Without using the StringBuilder or StringBuffer class, write a method that
